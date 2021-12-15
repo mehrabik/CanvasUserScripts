@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Print Canvas Quiz
+// @name         Print Canvas Quiz (UBC Version)
 // @namespace    https://github.com/sukotsuchido/CanvasUserScripts
 // @version      1.2
 // @description  Allows the user to print quizzes from the preview page.
-// @author       Chad Scott (ChadScott@katyisd.org)
+// @author       Chad Scott (ChadScott@katyisd.org), UBC Modifications by mehrabik
 // @include      https://canvas.ubc.ca/courses/*/quizzes/*/take?preview*
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 
