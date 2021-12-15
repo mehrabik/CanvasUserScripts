@@ -4,7 +4,7 @@
 // @version      1.2
 // @description  Allows the user to print quizzes from the preview page.
 // @author       Chad Scott (ChadScott@katyisd.org)
-// @include      https://*.instructure.com/courses/*/quizzes/*/take?preview*
+// @include      https://canvas.ubc.ca/courses/*/quizzes/*/take?preview*
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 
 // ==/UserScript==
