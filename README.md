@@ -1,4 +1,7 @@
-# CanvasUserScripts
+# CanvasUserScripts (UBC Version)
+mehrabik's changes:
+ - Changed the target URL to point to UBC Canvas.
+
 UserScripts for Canvas LMS
 
 <b>Canvas Crosslisting.user.js</b> is a very basic tool in which the user inputs the course number of the parent course and child course and then the two are crosslisted together.
